@@ -1,0 +1,22 @@
+{
+  "name": "test-qwen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:ci": "vitest run --reporter=verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@arthurfporto.github.com:arthurfporto/test-qwen"
+  },
+  "devDependencies": {
+    "jsdom": "^23.2.0",
+    "vitest": "^1.6.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
